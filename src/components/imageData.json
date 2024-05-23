@@ -1,0 +1,276 @@
+[
+    {
+        "filename": "africanleopard.jpeg",
+        "breed": "African Leopard",
+        "description": "Description for Breed 3",
+        "path": "./assets/africanleopard.jpeg"
+    },
+    {
+        "filename": "afrileopard.jpeg",
+        "breed": "African Leopard",
+        "description": "Description for Breed 3",
+        "path": "./assets/afrileopard.jpeg"
+    },
+    {
+        "filename": "afrileopard2.jpeg",
+        "breed": "African Leopard",
+        "description": "Description for Breed 3",
+        "path": "./assets/afrileopard2.jpeg"
+    },
+    {
+        "filename": "antelope.jpg",
+        "breed": "Impala",
+        "description": "Description for Breed 3",
+        "path": "./assets/antelope.jpg"
+    },
+    {
+        "filename": "asiaticlion.jpeg",
+        "breed": "Asiatic lion",
+        "description": "Description for Breed 3",
+        "path": "./assets/asiaticlion.jpeg"
+    },
+    {
+        "filename": "barbarylion.jpeg",
+        "breed": "Barbary lion",
+        "description": "Description for Breed 3",
+        "path": "./assets/barbarylion.jpeg"
+    },
+    {
+        "filename": "beautiful.jpg",
+        "breed": "African Bush Elephant",
+        "description": "Description for Breed 3",
+        "path": "./assets/beautiful.jpg"
+    },
+    {
+        "filename": "birds.jpg",
+        "breed": "Great White Pelican",
+        "description": "Description for Breed 3",
+        "path": "./assets/birds.jpg"
+    },
+    {
+        "filename": "bushelephant.jpeg",
+        "breed": "African Bush Elephant",
+        "description": "Description for Breed 3",
+        "path": "./assets/bushelephant.jpeg"
+    },
+    {
+        "filename": "capelion.jpeg",
+        "breed": "Cape Lion",
+        "description": "Description for Breed 3",
+        "path": "./assets/capelion.jpeg"
+    },
+    {
+        "filename": "cheetah.jpg",
+        "breed": "Cheetah",
+        "description": "Description for Breed 3",
+        "path": "./assets/cheetah.jpg"
+    },
+    {
+        "filename": "cheetah2.jpeg",
+        "breed": "Cheetah",
+        "description": "Description for Breed 3",
+        "path": "./assets/cheetah2.jpeg"
+    },
+    {
+        "filename": "cheetah3.jpeg",
+        "breed": "Cheetah",
+        "description": "Description for Breed 3",
+        "path": "./assets/cheetah3.jpeg"
+    },
+    {
+        "filename": "cheetah4.jpeg",
+        "breed": "Cheetah",
+        "description": "Description for Breed 3",
+        "path": "./assets/cheetah4.jpeg"
+    },
+    {
+        "filename": "cheetah5.jpeg",
+        "breed": "South African Cheetah",
+        "description": "Description for Breed 3",
+        "path": "./assets/cheetah5.jpeg"
+    },
+    {
+        "filename": "cheetah6.jpeg",
+        "breed": "Cheetah",
+        "description": "Description for Breed 3",
+        "path": "./assets/cheetah6.jpeg"
+    },
+    {
+        "filename": "collaredpratincole.jpeg",
+        "breed": "Collared pratincole",
+        "description": "Description for Breed 3",
+        "path": "./assets/collaredpratincole.jpeg"
+    },
+    {
+        "filename": "eland.jpeg",
+        "breed": "Common Eland",
+        "description": "Description for Breed 3",
+        "path": "./assets/eland.jpeg"
+    },
+    {
+        "filename": "ele.jpg",
+        "breed": "Elephant",
+        "description": "Description for Breed 3",
+        "path": "./assets/ele.jpg"
+    },
+    {
+        "filename": "elephants.jpg",
+        "breed": "Elephant",
+        "description": "Description for Breed 3",
+        "path": "./assets/elephants.jpg"
+    },
+    {
+        "filename": "flammm.jpg",
+        "breed": "Flamingo",
+        "description": "Description for Breed 3",
+        "path": "./assets/flammm.jpg"
+    },
+    {
+      "filename": "giraffe1.jpeg",
+      "breed": "Giraffe",
+      "description": "Description for Breed 1",
+      "path": "./assets/giraffe1.jpeg"
+    },
+    {
+        "filename": "giraffe3.jpeg",
+        "breed": "Northern Giraffe",
+        "description": "Description for Breed 3",
+        "path": "./assets/giraffe3.jpeg"
+    },
+    {
+        "filename": "giraffe4.jpeg",
+        "breed": "Northern Giraffe",
+        "description": "Description for Breed 3",
+        "path": "./assets/giraffe4.jpeg"
+    },
+    {
+        "filename": "giraffe5.jpeg",
+        "breed": "Northern Giraffe",
+        "description": "Description for Breed 3",
+        "path": "./assets/giraffe5.jpeg"
+    },
+    {
+        "filename": "goldeneagle.jpeg",
+        "breed": "Golden Eagle",
+        "description": "Description for Breed 3",
+        "path": "./assets/goldeneagle.jpeg"
+    },
+    {
+        "filename": "goldenstarling.jpeg",
+        "breed": "Golden-breasted starling",
+        "description": "Description for Breed 3",
+        "path": "./assets/goldenstarling.jpeg"
+    },
+    {
+        "filename": "greykingfisher.jpeg",
+        "breed": "Grey Headed KingFisher",
+        "description": "Description for Breed 3",
+        "path": "./assets/greykingfisher.jpeg"
+    },
+    {
+        "filename": "hippos.jpg",
+        "breed": "Hippo",
+        "description": "Description for Breed 3",
+        "path": "./assets/hippos.jpg"
+    },
+    {
+        "filename": "hyena.jpg",
+        "breed": "Spotted Hyena",
+        "description": "Description for Breed 3",
+        "path": "./assets/hyena.jpg"
+    },
+    {
+      "filename": "kingfisher.jpeg",
+      "breed": "Golden Eagle",
+      "description": "Description for Breed 2",
+      "path": "./assets/kingfisher.jpeg"
+    },
+    {
+        "filename": "leopard.jpg",
+        "breed": "Leopard",
+        "description": "Description for Breed 3",
+        "path": "./assets/leopard.jpg"
+    },
+    {
+        "filename": "linktoplaces.jpg",
+        "breed": "Suunset",
+        "description": "Description for Breed 3",
+        "path": "./assets/linktoplaces.jpg"
+    },
+    {
+        "filename": "lion3.jpeg",
+        "breed": "Barbary lion",
+        "description": "Description for Breed 3",
+        "path": "./assets/lion3.jpeg"
+    },
+    {
+        "filename": "lioness.jpg",
+        "breed": "Cape Lion",
+        "description": "Description for Breed 3",
+        "path": "./assets/lioness.jpg"
+    },
+    {
+        "filename": "lioness2.jpeg",
+        "breed": "Lioness",
+        "description": "Found in Maasai Mara National Reserve",
+        "path": "./assets/lioness2.jpeg"
+    },
+    {
+        "filename": "monkey.jpg",
+        "breed": "Yellow Baboon",
+        "description": "Description for Breed 3",
+        "path": "./assets/monkey.jpg"
+    },
+    {
+        "filename": "panther.jpg",
+        "breed": "Black Panther",
+        "description": "Description for Breed 3",
+        "path": "./assets/panther.jpeg"
+    },
+    {
+        "filename": "rhino.jpg",
+        "breed": "Black Rhinocerous",
+        "description": "Description for Breed 3",
+        "path": "./assets/rhino.jpg"
+    },
+    {
+        "filename": "stiratedheron.jpeg",
+        "breed": "Striated heron",
+        "description": "Description for Breed 3",
+        "path": "./assets/stiratedheron.jpeg"
+    },
+    {
+        "filename": "wilddogs.jpeg",
+        "breed": "African Wild Dogs",
+        "description": "Description for Breed 3",
+        "path": "./assets/wilddogs.jpeg"
+    },
+    {
+        "filename": "wildebeest.jpg",
+        "breed": "Wildebeest",
+        "description": "Description for Breed 3",
+        "path": "./assets/wildebeest.jpg"
+    },
+    {
+        "filename": "wilderbeast.jpg",
+        "breed": "Wildebeest Migration",
+        "description": "Description for Breed 3",
+        "path": "./assets/wilderbeast.jpg"
+    },
+    {
+        "filename": "zebra2.jpeg",
+        "breed": "Zebra",
+        "description": "Description for Breed 3",
+        "path": "./assets/zebra2.jpeg"
+    },  
+    {
+        "filename": "zebras.jpg",
+        "breed": "Zebra",
+        "description": "Description for Breed 3",
+        "path": "./assets/zebras.jpg"
+    }
+
+
+    
+  ]
+  
